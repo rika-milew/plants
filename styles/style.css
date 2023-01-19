@@ -1786,6 +1786,7 @@ nav ul li {
 line-height: 35px;
 margin: 0 auto 0; 
 text-align: center;
+    grid-column-gap: 0;
 }
 
 #welcome .container p {
