@@ -196,13 +196,12 @@ selectBtn.onclick = function () {
   openSelect.classList.toggle('active-contact');
   cityBtn.classList.toggle('active-select');
   selectBtn.classList.add('active-city');
-  contactsImage.classList.add('active-contact-image');
   contactsSection.classList.add('active-section');
   selectCity.forEach(button => {
     button.classList.remove('select-city-active')
   });
-  selectDate()
-  
+  selectDate();
+  hideImage();
 } 
 
 
@@ -215,6 +214,14 @@ function selectDate(){
     }
 }
 
+function hideImage(){
+    if(openSelect.classList.contains('active-contact') ){
+contactsImage.classList.add('active-contact-image');
+    }
+    else {
+        contactsImage.classList.remove('active-contact-image');
+    }
+}
 
 city[0].onclick = function () {
   openSelect.classList.toggle('active-contact')
@@ -264,6 +271,5 @@ city[3].onclick = function () {
   selectCity[3].classList.toggle('select-city-active')
   selectBtn.textContent = spanCity[3].textContent
 }
-
 
 
