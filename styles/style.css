@@ -855,7 +855,7 @@ nav ul li a:nth-child(1) {
     font-size: 10px;
     line-height: 13px;
     text-align: center;
-    background-color: none;
+    background-color: transparent;
     text-align: center;
     display: flex;
     align-items: center;
@@ -1836,7 +1836,7 @@ nav ul li a:nth-child(1) {
         font-size: 10px;
         line-height: 13px;
         text-align: center;
-        background-color: none;
+        background-color: transparent;
         text-align: center;
         display: flex;
         align-items: center;
