@@ -2392,7 +2392,7 @@ nav ul li a:nth-child(1) {
 
     #contacts .container {
         height: 445px;
-        padding: 0 42px 0;
+        padding: 0;
         display: grid;
         grid-template-rows: 35px 260px 125px;
         grid-template-columns: 1fr;
