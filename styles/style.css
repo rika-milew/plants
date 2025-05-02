@@ -2331,6 +2331,11 @@ nav ul li a:nth-child(1) {
         margin: 5px auto 36px;
     }
 
+     .select-btn {
+        width: 420px;
+        margin: 0 auto;
+    }
+
     /* footer  */
 
     .footer .container {
