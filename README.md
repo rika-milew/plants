@@ -1,6 +1,6 @@
 # 🌿 Plants Landing Page
 
-A beautifully designed, responsive landing page for a fictional plant store. Built using HTML, CSS, and JavaScript. Features interactive UI elements, a season-based gallery, language toggle, and localStorage support.
+A beautifully designed, responsive landing page for a fictional plant store. Built using HTML, CSS, and JavaScript. It includes a seasonal image gallery with image preloading, interactive UI elements, and a clean, minimal design focused on user readability and aesthetic appeal.
 
 ## 🔍 Live Demo
 
@@ -12,7 +12,6 @@ A beautifully designed, responsive landing page for a fictional plant store. Bui
 
 - Adaptive layout for mobile, tablet, and desktop
 - Image gallery with preloading
-- Theme switcher (light / dark mode)
 - Interactive burger menu and smooth scrolling
 - Clean and accessible design
 - SEO-friendly structure and performance-optimized assets
@@ -39,13 +38,10 @@ A beautifully designed, responsive landing page for a fictional plant store. Bui
 ```
 
 ## 🚀 How to Run Locally
-Clone the repository:
 
-bash
-Копировать
-Редактировать
-git clone https://github.com/rika-milew/plants.git
-Open index.html in your browser.
+1. Clone the repository:
+*git clone https://github.com/rika-milew/plants.git*
+2. Open index.html in your browser.
 
 ## 📈 Possible Improvements
 
@@ -56,4 +52,4 @@ Open index.html in your browser.
 
 ## 👩‍💻 Author
 Created by [@rika-milew](https://github.com/rika-milew)  
-A frontend practice project to showcase UI/UX, localization, and JS skills.
+This project is part of my frontend development portfolio.
