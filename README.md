@@ -1,6 +1,6 @@
 # 🌿 Plants Landing Page
 
-A beautifully designed, responsive landing page for a fictional plant store. Built using HTML, CSS, and JavaScript. It includes a seasonal image gallery with image preloading, interactive UI elements, and a clean, minimal design focused on user readability and aesthetic appeal.
+A beautifully designed, responsive landing page for a fictional plant store. Built using HTML, CSS, and JavaScript. It includes a seasonal gallery with image preloading, interactive UI elements, and a clean, minimal design focused on user readability and aesthetic appeal.
 
 ## 🔍 Live Demo
 
